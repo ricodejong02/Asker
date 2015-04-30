@@ -1,0 +1,9 @@
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\bin\Debug\Asker.exe.config
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\bin\Debug\Asker.exe
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\bin\Debug\Asker.pdb
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\obj\Debug\Asker.csprojResolveAssemblyReference.cache
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\obj\Debug\Asker.Form1.resources
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\obj\Debug\Asker.Properties.Resources.resources
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\obj\Debug\Asker.csproj.GenerateResource.Cache
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\obj\Debug\Asker.exe
+c:\users\rico\documents\visual studio 2013\Projects\Asker\Asker\obj\Debug\Asker.pdb
